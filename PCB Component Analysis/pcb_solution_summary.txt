@@ -1,0 +1,9 @@
+PCB Placement Solution
+
+USB: top-left=(6,45), center=(8.5, 47.5), rot=0
+MB1: top-left=(0,0), center=(2.5, 7.5), rot=0
+MB2: top-left=(45,0), center=(47.5, 7.5), rot=0
+MCU: top-left=(23,23), center=(25.5, 25.5), rot=0
+CRYSTAL: top-left=(30,30), center=(32.5, 32.5), rot=0
+Center of Mass: (23.3, 24.1)
+Keepout: (3.5, 35, 13.5, 50)
